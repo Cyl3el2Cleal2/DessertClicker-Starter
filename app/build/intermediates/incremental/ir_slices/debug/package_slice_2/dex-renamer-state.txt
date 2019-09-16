@@ -1,0 +1,4 @@
+#Tue Sep 17 01:09:35 ICT 2019
+base.0=/Users/macpro/AndroidStudioProjects/DessertClicker-Starter/app/build/intermediates/transforms/dexMerger/debug/2
+path.0=classes.dex
+renamed.0=classes.dex
