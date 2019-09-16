@@ -1,13 +1,14 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/macpro/AndroidStudioProjects/DessertClicker-Starter/app/src/main/AndroidManifest.xml:17:1-36:12
-INJECTED from /Users/macpro/AndroidStudioProjects/DessertClicker-Starter/app/src/main/AndroidManifest.xml:17:1-36:12
-INJECTED from /Users/macpro/AndroidStudioProjects/DessertClicker-Starter/app/src/main/AndroidManifest.xml:17:1-36:12
-INJECTED from /Users/macpro/AndroidStudioProjects/DessertClicker-Starter/app/src/main/AndroidManifest.xml:17:1-36:12
+ADDED from /Users/macpro/AndroidStudioProjects/DessertClicker-Starter/app/src/main/AndroidManifest.xml:17:1-37:12
+INJECTED from /Users/macpro/AndroidStudioProjects/DessertClicker-Starter/app/src/main/AndroidManifest.xml:17:1-37:12
+INJECTED from /Users/macpro/AndroidStudioProjects/DessertClicker-Starter/app/src/main/AndroidManifest.xml:17:1-37:12
+INJECTED from /Users/macpro/AndroidStudioProjects/DessertClicker-Starter/app/src/main/AndroidManifest.xml:17:1-37:12
 MERGED from [androidx.databinding:databinding-adapters:3.4.2] /Users/macpro/.gradle/caches/transforms-2/files-2.1/2c1aa65252afb4fa524bb3362727a6dc/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.databinding:databinding-runtime:3.4.2] /Users/macpro/.gradle/caches/transforms-2/files-2.1/153d7e3815ec3680251cb55f14fa2782/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha2] /Users/macpro/.gradle/caches/transforms-2/files-2.1/ba1cd015ab1e64b1406e88e4cce8be8b/AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.appcompat:appcompat:1.0.0] /Users/macpro/.gradle/caches/transforms-2/files-2.1/35b387974b3c643530069d65011091d5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.jakewharton.timber:timber:4.7.1] /Users/macpro/.gradle/caches/transforms-2/files-2.1/a72453fddeb69be259c4ba064ee5b309/AndroidManifest.xml:2:1-9:12
 MERGED from [androidx.fragment:fragment:1.0.0] /Users/macpro/.gradle/caches/transforms-2/files-2.1/ec0d90cee6c59b58d43af928dd3dadb4/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/macpro/.gradle/caches/transforms-2/files-2.1/bed5f0bb95d72ab9d7a9cfd24c05a0f5/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.recyclerview:recyclerview:1.0.0-rc01] /Users/macpro/.gradle/caches/transforms-2/files-2.1/ce7d0ebecb8f72cac9a7756dfd8ace1f/AndroidManifest.xml:17:1-22:12
@@ -34,27 +35,29 @@ MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/
 MERGED from [androidx.print:print:1.0.0] /Users/macpro/.gradle/caches/transforms-2/files-2.1/0d07d15b2e8d7400526437f0dc29d523/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/macpro/.gradle/caches/transforms-2/files-2.1/40f392b282c4e4a0bc84a8b9ed67a98f/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/macpro/.gradle/caches/transforms-2/files-2.1/6a217b50d78f28a45d7ffd4cff4479dd/AndroidManifest.xml:17:1-22:12
-INJECTED from /Users/macpro/AndroidStudioProjects/DessertClicker-Starter/app/src/main/AndroidManifest.xml:17:1-36:12
-INJECTED from /Users/macpro/AndroidStudioProjects/DessertClicker-Starter/app/src/main/AndroidManifest.xml:17:1-36:12
-INJECTED from /Users/macpro/AndroidStudioProjects/DessertClicker-Starter/app/src/main/AndroidManifest.xml:17:1-36:12
+INJECTED from /Users/macpro/AndroidStudioProjects/DessertClicker-Starter/app/src/main/AndroidManifest.xml:17:1-37:12
+INJECTED from /Users/macpro/AndroidStudioProjects/DessertClicker-Starter/app/src/main/AndroidManifest.xml:17:1-37:12
+INJECTED from /Users/macpro/AndroidStudioProjects/DessertClicker-Starter/app/src/main/AndroidManifest.xml:17:1-37:12
 	package
 		ADDED from /Users/macpro/AndroidStudioProjects/DessertClicker-Starter/app/src/main/AndroidManifest.xml:18:5-49
 		INJECTED from /Users/macpro/AndroidStudioProjects/DessertClicker-Starter/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/macpro/AndroidStudioProjects/DessertClicker-Starter/app/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /Users/macpro/AndroidStudioProjects/DessertClicker-Starter/app/src/main/AndroidManifest.xml
-		ADDED from /Users/macpro/AndroidStudioProjects/DessertClicker-Starter/app/src/main/AndroidManifest.xml:17:1-36:12
+		ADDED from /Users/macpro/AndroidStudioProjects/DessertClicker-Starter/app/src/main/AndroidManifest.xml:17:1-37:12
 		INJECTED from /Users/macpro/AndroidStudioProjects/DessertClicker-Starter/app/src/main/AndroidManifest.xml
 	android:versionCode
 		INJECTED from /Users/macpro/AndroidStudioProjects/DessertClicker-Starter/app/src/main/AndroidManifest.xml
-		ADDED from /Users/macpro/AndroidStudioProjects/DessertClicker-Starter/app/src/main/AndroidManifest.xml:17:1-36:12
+		ADDED from /Users/macpro/AndroidStudioProjects/DessertClicker-Starter/app/src/main/AndroidManifest.xml:17:1-37:12
 		INJECTED from /Users/macpro/AndroidStudioProjects/DessertClicker-Starter/app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /Users/macpro/AndroidStudioProjects/DessertClicker-Starter/app/src/main/AndroidManifest.xml:17:11-69
 application
-ADDED from /Users/macpro/AndroidStudioProjects/DessertClicker-Starter/app/src/main/AndroidManifest.xml:20:5-34:19
+ADDED from /Users/macpro/AndroidStudioProjects/DessertClicker-Starter/app/src/main/AndroidManifest.xml:20:5-35:19
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha2] /Users/macpro/.gradle/caches/transforms-2/files-2.1/ba1cd015ab1e64b1406e88e4cce8be8b/AndroidManifest.xml:9:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha2] /Users/macpro/.gradle/caches/transforms-2/files-2.1/ba1cd015ab1e64b1406e88e4cce8be8b/AndroidManifest.xml:9:5-20
+MERGED from [com.jakewharton.timber:timber:4.7.1] /Users/macpro/.gradle/caches/transforms-2/files-2.1/a72453fddeb69be259c4ba064ee5b309/AndroidManifest.xml:7:5-20
+MERGED from [com.jakewharton.timber:timber:4.7.1] /Users/macpro/.gradle/caches/transforms-2/files-2.1/a72453fddeb69be259c4ba064ee5b309/AndroidManifest.xml:7:5-20
 MERGED from [androidx.core:core:1.0.0] /Users/macpro/.gradle/caches/transforms-2/files-2.1/b136dd9c1ecf6c6f904b3f385385aad4/AndroidManifest.xml:22:5-89
 MERGED from [androidx.core:core:1.0.0] /Users/macpro/.gradle/caches/transforms-2/files-2.1/b136dd9c1ecf6c6f904b3f385385aad4/AndroidManifest.xml:22:5-89
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/macpro/.gradle/caches/transforms-2/files-2.1/73b928da8dc2b0033722075dae23f23c/AndroidManifest.xml:22:5-23:19
@@ -62,31 +65,33 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/macp
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.0.0] /Users/macpro/.gradle/caches/transforms-2/files-2.1/b136dd9c1ecf6c6f904b3f385385aad4/AndroidManifest.xml:22:18-86
 	android:supportsRtl
-		ADDED from /Users/macpro/AndroidStudioProjects/DessertClicker-Starter/app/src/main/AndroidManifest.xml:25:9-35
+		ADDED from /Users/macpro/AndroidStudioProjects/DessertClicker-Starter/app/src/main/AndroidManifest.xml:26:9-35
 	android:label
-		ADDED from /Users/macpro/AndroidStudioProjects/DessertClicker-Starter/app/src/main/AndroidManifest.xml:23:9-41
+		ADDED from /Users/macpro/AndroidStudioProjects/DessertClicker-Starter/app/src/main/AndroidManifest.xml:24:9-41
 	android:roundIcon
-		ADDED from /Users/macpro/AndroidStudioProjects/DessertClicker-Starter/app/src/main/AndroidManifest.xml:24:9-61
+		ADDED from /Users/macpro/AndroidStudioProjects/DessertClicker-Starter/app/src/main/AndroidManifest.xml:25:9-61
 	android:icon
-		ADDED from /Users/macpro/AndroidStudioProjects/DessertClicker-Starter/app/src/main/AndroidManifest.xml:22:9-50
+		ADDED from /Users/macpro/AndroidStudioProjects/DessertClicker-Starter/app/src/main/AndroidManifest.xml:23:9-50
 	android:allowBackup
-		ADDED from /Users/macpro/AndroidStudioProjects/DessertClicker-Starter/app/src/main/AndroidManifest.xml:21:9-35
+		ADDED from /Users/macpro/AndroidStudioProjects/DessertClicker-Starter/app/src/main/AndroidManifest.xml:22:9-35
 	android:theme
-		ADDED from /Users/macpro/AndroidStudioProjects/DessertClicker-Starter/app/src/main/AndroidManifest.xml:26:9-40
+		ADDED from /Users/macpro/AndroidStudioProjects/DessertClicker-Starter/app/src/main/AndroidManifest.xml:27:9-40
+	android:name
+		ADDED from /Users/macpro/AndroidStudioProjects/DessertClicker-Starter/app/src/main/AndroidManifest.xml:21:9-43
 activity#com.example.android.dessertclicker.MainActivity
-ADDED from /Users/macpro/AndroidStudioProjects/DessertClicker-Starter/app/src/main/AndroidManifest.xml:27:9-33:20
+ADDED from /Users/macpro/AndroidStudioProjects/DessertClicker-Starter/app/src/main/AndroidManifest.xml:28:9-34:20
 	android:name
-		ADDED from /Users/macpro/AndroidStudioProjects/DessertClicker-Starter/app/src/main/AndroidManifest.xml:27:19-81
+		ADDED from /Users/macpro/AndroidStudioProjects/DessertClicker-Starter/app/src/main/AndroidManifest.xml:28:19-81
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/macpro/AndroidStudioProjects/DessertClicker-Starter/app/src/main/AndroidManifest.xml:28:13-32:29
+ADDED from /Users/macpro/AndroidStudioProjects/DessertClicker-Starter/app/src/main/AndroidManifest.xml:29:13-33:29
 action#android.intent.action.MAIN
-ADDED from /Users/macpro/AndroidStudioProjects/DessertClicker-Starter/app/src/main/AndroidManifest.xml:29:17-69
+ADDED from /Users/macpro/AndroidStudioProjects/DessertClicker-Starter/app/src/main/AndroidManifest.xml:30:17-69
 	android:name
-		ADDED from /Users/macpro/AndroidStudioProjects/DessertClicker-Starter/app/src/main/AndroidManifest.xml:29:25-66
+		ADDED from /Users/macpro/AndroidStudioProjects/DessertClicker-Starter/app/src/main/AndroidManifest.xml:30:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/macpro/AndroidStudioProjects/DessertClicker-Starter/app/src/main/AndroidManifest.xml:31:17-77
+ADDED from /Users/macpro/AndroidStudioProjects/DessertClicker-Starter/app/src/main/AndroidManifest.xml:32:17-77
 	android:name
-		ADDED from /Users/macpro/AndroidStudioProjects/DessertClicker-Starter/app/src/main/AndroidManifest.xml:31:27-74
+		ADDED from /Users/macpro/AndroidStudioProjects/DessertClicker-Starter/app/src/main/AndroidManifest.xml:32:27-74
 uses-sdk
 INJECTED from /Users/macpro/AndroidStudioProjects/DessertClicker-Starter/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/macpro/AndroidStudioProjects/DessertClicker-Starter/app/src/main/AndroidManifest.xml
@@ -99,6 +104,8 @@ MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha2] /Users/mac
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha2] /Users/macpro/.gradle/caches/transforms-2/files-2.1/ba1cd015ab1e64b1406e88e4cce8be8b/AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.appcompat:appcompat:1.0.0] /Users/macpro/.gradle/caches/transforms-2/files-2.1/35b387974b3c643530069d65011091d5/AndroidManifest.xml:20:5-44
 MERGED from [androidx.appcompat:appcompat:1.0.0] /Users/macpro/.gradle/caches/transforms-2/files-2.1/35b387974b3c643530069d65011091d5/AndroidManifest.xml:20:5-44
+MERGED from [com.jakewharton.timber:timber:4.7.1] /Users/macpro/.gradle/caches/transforms-2/files-2.1/a72453fddeb69be259c4ba064ee5b309/AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton.timber:timber:4.7.1] /Users/macpro/.gradle/caches/transforms-2/files-2.1/a72453fddeb69be259c4ba064ee5b309/AndroidManifest.xml:5:5-43
 MERGED from [androidx.fragment:fragment:1.0.0] /Users/macpro/.gradle/caches/transforms-2/files-2.1/ec0d90cee6c59b58d43af928dd3dadb4/AndroidManifest.xml:20:5-44
 MERGED from [androidx.fragment:fragment:1.0.0] /Users/macpro/.gradle/caches/transforms-2/files-2.1/ec0d90cee6c59b58d43af928dd3dadb4/AndroidManifest.xml:20:5-44
 MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/macpro/.gradle/caches/transforms-2/files-2.1/bed5f0bb95d72ab9d7a9cfd24c05a0f5/AndroidManifest.xml:20:5-44
